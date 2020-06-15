@@ -24,20 +24,20 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-#1. 설치 및 실행 과정
+# 1. 설치 및 실행 과정
 
-##1-1 vue cli 설치
+## 1-1 vue cli 설치
  
 ```
 npm install -g @vue/clinpm install -g @vue/cli
 ```
 
-##1-2 vue cli-service-global 설치
+## 1-2 vue cli-service-global 설치
 ```
 npm install -g  @vue/cli-service-global
 ```
 
-##1-3 실행
+## 1-3 실행
 ```
 npm run serve
 ```
