@@ -29,7 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 1-1 vue cli 설치
  
 ```
-npm install -g @vue/clinpm install -g @vue/cli
+npm install -g @vue/cli
 ```
 
 ## 1-2 vue cli-service-global 설치
